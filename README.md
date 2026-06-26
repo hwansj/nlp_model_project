@@ -63,7 +63,7 @@ IMDB 영화 리뷰 데이터셋을 사용하여 리뷰가 긍정인지 부정인
 실행 명령:
 
 ```bash
-python src/lstm_imdb_lightning.py
+python src/LSTM_movie_review.py
 ```
 
 ## 3. Python 버전
